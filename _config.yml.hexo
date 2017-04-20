@@ -80,7 +80,7 @@ feed:
   content:
 
 # 自动生成sitemap
-sitemap: 
+sitemap:
   path: sitemap.xml
-baidusitemap: 
+baidusitemap:
   path: baidusitemap.xml
